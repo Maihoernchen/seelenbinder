@@ -8,22 +8,27 @@ body {
 }
 .main_text {
     position: relative;
-    left: 10%;
-    top: 40px;
+    left: 45px;
+    top: 20px;
     text-align: center;
     background-color: f2f2f2;
     color: black;
-    width: 1185px;
-    height: 500px;
-    border: dashed #333;
+    width: 1100px;
+    height: 1100px;
+    border: solid #333;
 }
 
-
-img {
-    position: relative;
-    left: 10%;
-    top: 20px;
-    height: 800px;
+.werner {
+    position: absolute;
+    left: 72%;
+    top: 20%;
+    height: 100%;
+    width: 20px;
+    margin: 0px;
+}
+.werner img {
+    margin-right: 20px;
+    height: 300px;
     width: auto;
     border: solid #333;
 }
