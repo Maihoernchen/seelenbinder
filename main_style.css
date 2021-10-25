@@ -8,7 +8,7 @@ body {
 }
 .main_text {
     position: relative;
-    left: 10%;
+    left: 12%;
     top: 40px;
     text-align: center;
     background-color: f2f2f2;
@@ -21,7 +21,7 @@ body {
 
 img {
     position: relative;
-    left: 10%;
+    left: 12%;
     top: 20px;
     height: 800px;
     width: auto;
